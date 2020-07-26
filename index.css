@@ -8,8 +8,8 @@ html {
 
 
 h3 {
+    margin: 10px 20px;
     padding: 5px 10px;
-    margin: 10px;
-    border-radius: 20px;
     border: 1px solid firebrick;
+    border-radius: 3px;
 }
